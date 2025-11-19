@@ -62,6 +62,8 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ## 🚀 Featured Projects
 
+* 🌐 **Multi-Store Automated Customer Response Service** [**Repository**](https://github.com/omar-alammari/multi-tenant-ai-response-service)
+  
 * 🌐 **URL Shortener Backend Service** [**Repository**](https://github.com/omar-alammari/url_shortener_backend) 
     <!--* **Tech:** TypeScript, Node.js, Koa.js, PostgreSQL, RESTful, JWT, MVC Architecture.
   * [**Explore the Repository**](https://github.com/omar-alammari/url_shortener_backend)-->
@@ -144,7 +146,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ---
 
-### 🤝 Soft Skills
+<!--### 🤝 Soft Skills
 
 * Strong Teamwork & Collaboration 
 * Effective Research & Problem-Solving 
@@ -171,7 +173,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 * Data Analysis Using Python – *UST* 
 * ICDL – *UST* 
 * Leadership skills – *UST*
-
+-->
 ---
 
 ## Contribution activity
