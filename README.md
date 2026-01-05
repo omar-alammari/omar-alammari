@@ -47,7 +47,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ---
 
-
+<!--
 ## 💼 Professional Experience
 
 * 🧑‍💼 **Technical Support Specialist – Accounting Systems – Ebda3 Soft Systems** | Feb 2025 – May 2025 
@@ -57,7 +57,7 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 * 🧑‍💻 **Freelance Laravel Developer – Mnyzod Auction Store** | Jan 2025 – Feb 2025 
 
 * 👨‍💻 **Trainee Developer – Horizon Company** | Mar 2024 – Apr 2024 [**Live Demo**](https://apex.oracle.com/pls/apex/r/horizon_12/project-task/login)
-
+-->
 ---
 
 ## 🚀 Featured Projects
