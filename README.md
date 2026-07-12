@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
-<h3 align="center">Full-Stack Developer | Flutter Developer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar-alammari&label=Profile%20views&color=0e75b6&style=flat" alt="Omar" /> </p> -->
 
 ## 🧠 About Me
 
 I am a **Full-Stack Developer** passionate about creating scalable, user-centric software solutions.  
-I have hands-on experience in **web and mobile development** using **Python, JavaScript/TypeScript, React/Next.js, Node.js, Flutter, and Laravel**, and I apply software architectures like **Clean Architecture, MVVM, and MVC** to ensure clean and maintainable solutions.  
+I have hands-on experience in **web and mobile development** using **Laravel, Flutter, Node.js, Python, JavaScript/TypeScript, React/Next.js**, and I apply software architectures like **Clean Architecture, MVVM, and MVC** to ensure clean and maintainable solutions.  
 
 My journey includes freelancing as a **Flutter developer** on *Smart Cart App*, a shopping assistant with auth, social login, and recipe API integration; working as a **Laravel developer** on *Mnyzod Auction Store*, where I integrated the OTO delivery API for automated shipping and courier tracking; and interning at **Horizon Company**, co-developing a time-tracking app (*Project Task*) with Oracle Apex and PL/SQL.  
 
