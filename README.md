@@ -15,7 +15,7 @@ I enjoy solving **real-world problems**, exploring **new technologies**, and col
 - 🔭 I’m currently working on improving my skills as a software engineer.  
 - 🌱 Curious about web and mobile development.  
 - 👯 Looking to collaborate on open source projects.  
-- 💬 Ask me about **Node.js, React/Next.js, Flutter, Dart, Firebase, Python**.  
+- 💬 Ask me about **Laravel, Flutter, Node.js, React/Next.js, Dart, Firebase, Python**.  
 - 📫 Reach me at **omar.alammariy@gmail.com**
 
 <!--
