@@ -8,7 +8,7 @@
 I am a **Full-Stack Developer** passionate about creating scalable, user-centric software solutions.  
 I have hands-on experience in **web and mobile development** using **Laravel, Flutter, Node.js, Python, JavaScript/TypeScript, React/Next.js**, and I apply software architectures like **Clean Architecture, MVVM, and MVC** to ensure clean and maintainable solutions.  
 
-My journey includes freelancing as a **Flutter developer** on *Smart Cart App*, a shopping assistant with auth, social login, and recipe API integration; working as a **Laravel developer** on *Mnyzod Auction Store*, where I integrated the OTO delivery API for automated shipping and courier tracking; and interning at **Horizon Company**, co-developing a time-tracking app (*Project Task*) with Oracle Apex and PL/SQL.  
+<!--My journey includes freelancing as a **Flutter developer** on *Smart Cart App*, a shopping assistant with auth, social login, and recipe API integration; working as a **Laravel developer** on *Mnyzod Auction Store*, where I integrated the OTO delivery API for automated shipping and courier tracking; and interning at **Horizon Company**, co-developing a time-tracking app (*Project Task*) with Oracle Apex and PL/SQL.  -->
 
 I enjoy solving **real-world problems**, exploring **new technologies**, and collaborating with teams to build impactful software products. 🚀  
 
