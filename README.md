@@ -62,6 +62,8 @@ I’m a results-driven full-stack developer with a strong foundation in both fro
 
 ## 🚀 Featured Projects
 
+* 🌐 **Job-board** [**Repository**](https://github.com/omar-alammari/job-board.git)
+
 * 🌐 **Ticketing-system** [**Repository**](https://github.com/omar-alammari/ticketing-system)
 
 * 🌐 **Multi-Store Automated Customer Response Service** [**Repository**](https://github.com/omar-alammari/multi-tenant-ai-response-service)
